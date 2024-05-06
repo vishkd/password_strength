@@ -1,0 +1,1 @@
+this project is aimed to build webpage for password strength for login page
